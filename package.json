@@ -50,7 +50,7 @@
     "koa2-cors": "^2.0.6",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
-    "mongoose": "^4.13.19",
+    "mongoose": "^5.7.5",
     "nodemon": "^2.0.1",
     "prop-types": "^15.7.2",
     "qiniu": "^6.1.13",
