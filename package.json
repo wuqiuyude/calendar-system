@@ -39,7 +39,7 @@
     "dva": "^2.4.1",
     "immutability-helper": "^3.0.1",
     "immutable": "^4.0.0-rc.12",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "koa": "^2.2.0",
     "koa-bodyparser": "^4.2.0",
     "koa-logger": "^2.0.1",
